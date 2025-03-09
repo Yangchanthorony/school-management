@@ -1,0 +1,74 @@
+
+.document-header {
+    margin-bottom: 20px;
+}
+
+.document-header p {
+    margin: 5px 0;
+}
+
+.main-title {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.sub-title {
+    font-size: 18px;
+}
+
+.details {
+   font-size: 16px;
+}
+
+.details span {
+   font-weight: bold;
+}
+
+hr {
+    border: 1px solid black;
+    margin: 20px 0;
+}
+
+.student_ranking {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+.student_ranking, .student_ranking tr th,.student_ranking tr td {
+    border: 1px solid black;
+}
+
+.student_ranking thead tr th, .student_ranking tbody tr td {
+    padding: 8px;
+    text-align: center;
+}
+
+.student_ranking thead tr th {
+    background-color: #f4f4f4;
+    font-weight: bold;
+}
+
+.footer {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.footer img {
+    height: 100px;
+}
+
+.footer-signature {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.footer-signature .class_info {
+    text-align: start;
+    line-height: 7px;
+}
+
+.stamps {
+    margin-top: 20px;
+}
